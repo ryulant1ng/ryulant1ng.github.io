@@ -30,7 +30,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ryulant1ng' }
+      { icon: 'github', link: 'https://github.com/ryulant1ng' },
+      { icon: 'x', link: 'https://x.com/ryulant1ng' }
     ]
   }
 })
