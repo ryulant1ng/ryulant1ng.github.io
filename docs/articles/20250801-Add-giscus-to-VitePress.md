@@ -76,7 +76,7 @@ If you're using JavaScript to configure, use this.
 
 ```javascript
 // index.js
-import DefaultTheme from 'vitepress/theme-without-fonts'
+import DefaultTheme from 'vitepress/theme-without-fonts' /* I use custom font, if you not, change it to `vitepress/theme`. */
 import mylayout from './mylayout.vue'
 
 export default {
