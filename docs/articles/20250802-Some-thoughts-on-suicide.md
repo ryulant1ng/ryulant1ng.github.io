@@ -9,7 +9,7 @@ I was hospitalized three times for suicide, and diagnosed with major depressive 
 
 ## Suicide intervention
 
-I think 'Suicide intervention' is utter hypocrisy. People who choose suicide surrender their lives to nature in exchange for freedom from endless suffering, but those who perform so-called 'suicide intervention' programs deprive them of this last hope. Some even resort to even more despicable means, using various methods to block the path to death—restricting access to medication, installing higher guardrails on bridges, and so on.
+I think 'suicide intervention' is utter hypocrisy. People who choose suicide surrender their lives to nature in exchange for freedom from endless suffering, but those who perform so-called 'suicide intervention' programs deprive them of this last hope. Some even resort to even more despicable means, using various methods to block the path to death—restricting access to medication, installing higher guardrails on bridges, and so on.
 
 People have indeed reduced the number of deaths—a wishful thinking that aligns with their own expectations. However, the underlying causes of suicide don't disappear. Furthermore, even after undergoing 'suicide intervention', people are often closely monitored to prevent further suicide attempts—especially in institutions like schools and hospitals. This leaves those who choose suicide trapped in a spiral of pain, unable to die.
 
