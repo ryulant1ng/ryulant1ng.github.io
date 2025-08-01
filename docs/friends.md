@@ -4,6 +4,14 @@ title: Friends
 
 # Friends
 
+If you want to add friends link with me, please make sure you already add me in your friends link page. You need to provide your:
+
+- Site URL
+- Avatar
+- Name
+- A one sentence description
+- Your social link (optional)
+
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme-without-fonts'
 

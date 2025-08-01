@@ -12,13 +12,13 @@ First, open giscus site, install [giscus app](https://github.com/apps/giscus) to
 - Use strict title matching
 - Place the comment box above the comments
 
-We can't straightly add a `<script>` tag to the '.vue' file, if you do, it will cause following error.
+We can't straightly add a `<script>` tag to the '.vue' file, if you do, it will cause following error:
 
 > Tags with side effect (`<script>` and `<style>`) are ignored in client component templates.
 
 So we should write a component.
 
-Create a '.vue' file (e.g. 'mylayout.vue'), it will be the file that defines layout, adding following code.
+Create a '.vue' file (e.g. 'mylayout.vue'), it will be the file that defines layout, adding following code:
 
 ```vue
 <!-- mylayout.vue -->
@@ -72,7 +72,7 @@ export default {
 } satisfies Theme
 ```
 
-If you're using JavaScript to configure, use this.
+If you're using JavaScript to configure, use this:
 
 ```javascript
 // index.js
@@ -87,7 +87,7 @@ export default {
 
 Now, run `bun run docs:dev` (if you're using npm, run `npm run docs:dev`), check if your giscus working well.
 
-You may not want to put giscus on some pages (like your articles list page), for this, add `comments: false` to your frontmatter.
+You may not want to put giscus on some pages (like your articles list page), for this, add `comments: false` to your frontmatter:
 
 ```yaml
 ---
