@@ -10,6 +10,9 @@ hero:
     - theme: alt
       text: About
       link: /about
+    - theme: alt
+      text: Articles
+      link: /articles/
   image:
     src: /images/avatar.jpg
 ---
