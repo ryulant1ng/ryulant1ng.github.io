@@ -1,5 +1,6 @@
 ---
 title: Articles
+comments: false
 ---
 
 # Articles
