@@ -7,6 +7,10 @@ export default defineConfig({
   lang: 'en',
   mpa: true,
 
+  markdown: {
+    math: true
+  },
+
   head: [
     ['link', { rel: 'shortcut icon', href: '/images/favicon.ico' }],
     ['link', { rel: 'icon', type: 'image/png', sizes: "96x96", href: '/images/favicon-96x96.png' }],
@@ -35,6 +39,10 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ryulant1ng' },
       { icon: 'x', link: 'https://x.com/ryulant1ng' }
-    ]
+    ],
+
+    search: {
+      provider: 'local'
+    }
   }
 })
