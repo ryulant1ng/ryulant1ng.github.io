@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Lanting Liu",
   description: "No matter where you go, everyone is connected",
   lang: 'en',
+  mpa: true,
 
   head: [
     ['link', { rel: 'shortcut icon', href: '/images/favicon.ico' }],
@@ -18,7 +19,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about' },
-      { text: 'Articles', link: '/articles/' }
+      { text: 'Articles', link: '/articles/' },
+      { text: 'Friends', link: '/friends' }
     ],
 
     docFooter: {

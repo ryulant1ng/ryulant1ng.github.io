@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Articles
       link: /articles/
+    - theme: alt
+      text: Friends
+      link: /friends
   image:
     src: /images/avatar.jpg
 ---
