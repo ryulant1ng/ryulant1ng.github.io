@@ -2,6 +2,8 @@
 title: Friends
 ---
 
+# Friends
+
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme-without-fonts'
 
@@ -17,7 +19,7 @@ const members = [
   {
     avatar: '/images/friendsavatar/winsloweric.png',
     name: 'Winslow Flandre',
-    desc: '神圣的<ruby>网络<rt>WIRED</rt></ruby>将你我连线在一起',
+    desc: 'The blessed <ruby>network<rt>WIRED</rt></ruby> interwires our psyches together',
     links: [
       { icon: icons.web, link: 'https://www.winsloweric.com/' },
       { icon: 'github', link: 'https://github.com/SorenEricMent' },
