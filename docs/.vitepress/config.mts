@@ -5,7 +5,6 @@ export default defineConfig({
   title: "Lanting Liu",
   description: "No matter where you go, everyone is connected",
   lang: 'en',
-  mpa: true,
 
   markdown: {
     math: true
