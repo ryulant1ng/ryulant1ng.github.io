@@ -51,7 +51,7 @@ You may reprint the content of this site in a reasonable manner provided that th
 #### Lists
 
 - For every list item, don't write period
-- Make each item's subtitle bold (before the colon) and capitalize the first letter of each sentence after the colon
+- Make each item's subtitle bold (before the colon, don't bold the colon) and capitalize the first letter of each sentence after the colon
 - Don't use list with one item
 
 #### Quotes

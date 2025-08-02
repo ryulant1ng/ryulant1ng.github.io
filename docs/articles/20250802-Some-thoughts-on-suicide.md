@@ -5,7 +5,7 @@ date: 2025-08-02
 
 # Some thoughts on suicide
 
-I was hospitalized three times for suicide, and diagnosed with major depressive disorder. The days I spent in hospital being restrained were incredibly painful, and it made me wonder if the measures we take today for people who choose suicide are actually helpful.
+I was hospitalized three times for suicide, and diagnosed with major depressive disorder and generalized anxiety disorder. The days I spent in hospital being restrained were incredibly painful, and it made me wonder if the measures we take today for people who choose suicide are actually helpful.
 
 ## Suicide intervention
 
