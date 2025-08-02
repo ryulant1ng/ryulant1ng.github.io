@@ -33,23 +33,27 @@ const { frontmatter, title } = useData()
 <template>
   <Layout>
     <template #doc-after>
+        <!-- 
+          - `v-if="frontmatter.comments !== false"` is used for turn off comments on some page.
+          - `:key="title"` is used for force Vue reload giscus on every page.
+        -->
         <div v-if="frontmatter.comments !== false" :key="title" class="giscus">
-            <component
-            :is="'script'"
-            src="https://giscus.app/client.js"
-            data-repo=""
-            data-repo-id=""
-            data-category=""
-            data-category-id=""
-            data-mapping=""
-            data-strict=""
-            data-reactions-enabled=""
-            data-emit-metadata=""
-            data-input-position=""
-            data-theme=""
-            data-lang=""
-            crossorigin="anonymous"
-            ></component>
+          <component
+          :is="'script'"
+          src="https://giscus.app/client.js"
+          data-repo=""
+          data-repo-id=""
+          data-category=""
+          data-category-id=""
+          data-mapping=""
+          data-strict=""
+          data-reactions-enabled=""
+          data-emit-metadata=""
+          data-input-position=""
+          data-theme=""
+          data-lang=""
+          crossorigin="anonymous"
+          ></component>
         </div>
     </template>
   </Layout>
