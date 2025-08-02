@@ -6,4 +6,4 @@ This is Lanting Liu's site, it uses [VitePress](https://vitepress.dev) as the st
 
 ## Copyright
 
-Copyright © 2025 [Lanting Liu](https://ryulant1ng.github.io). All rights reserved.
+Copyright © 2025 [Lanting Liu](https://ryulant1ng.github.io). All rights reserved. [View copyright notice](COPYRIGHT.txt).

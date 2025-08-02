@@ -12,6 +12,8 @@ If you want to add friends link with me, please make sure you already add me in 
 - A one sentence description
 - Your social link (optional)
 
+You can leave a message under this article or send an email to ryulant1ng★gmail.com to apply for a friend link.
+
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme-without-fonts'
 
