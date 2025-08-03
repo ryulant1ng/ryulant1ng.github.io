@@ -47,7 +47,7 @@ You may reprint the content of this site in a reasonable manner provided that th
 - **Japan**: Firstname, lastname
     - e.g. †Shinzo Abe (21 September 1954 - 8 July 2022)
 - **Old names**: respect the prevailing spelling
-    - e.g. Sun Yat-sen
+    - e.g. †Sun Yat-sen (12 November 1866 - 12 March 1925)
 
 #### Lists
 
