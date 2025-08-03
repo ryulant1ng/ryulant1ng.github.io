@@ -6,6 +6,7 @@ export default defineConfig({
   title: "Lanting Liu",
   description: "No matter where you go, everyone is connected",
   lang: 'en',
+  lastUpdated: true,
 
   sitemap: {
     hostname: 'https://ryulant1ng.github.io'

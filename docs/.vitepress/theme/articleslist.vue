@@ -1,6 +1,5 @@
 <script setup>
 import { data as posts } from './posts.data.ts'
-import './style/articlelist.css'
 </script>
 
 
