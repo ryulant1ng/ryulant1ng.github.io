@@ -17,7 +17,7 @@ People have indeed reduced the number of deaths—a wishful thinking that aligns
 
 In this article, we will not discuss religious concepts, but only the society's attitude towards suicide. 
 
-Most people born after 2000 can understand and respect suicide, but people before that cannot. They generally condemn people's suicide on the grounds because 'it is disrespectful to the family', they say this to their kids too (I get told this all the time). What led to this kind of thinking in the past? I think it was because people in the past had a low standard of living and could not accept the loss of family members. However, since ancient China, there has been the idea that 'children do not have to be responsible for their parents.'
+Most people born after 2000 can understand and respect suicide, but people before that cannot. They generally condemn people's suicide on the grounds because 'it is disrespectful to the family', they say this to their kids too (I get told this all the time). What led to this kind of thinking in the past? I think it was because people in the past had a low standard of living and could not accept the loss of family members. However, since ancient China, there has been the idea that 'children do not have to be responsible for their parents'.
 
 > What is the true nature of the bond between father and son? Tracing it to its origin, it is nothing more than the fulfillment of desire. And what of the relationship between a child and their mother? It is like an object entrusted to a bottle; once it is removed, the connection is severed. (父之于子，当有何亲？论其本意，实为情欲发耳。子之于母，亦复奚为？譬如寄物瓶中，出则离矣。)
 >
