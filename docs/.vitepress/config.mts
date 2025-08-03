@@ -7,6 +7,10 @@ export default defineConfig({
   description: "No matter where you go, everyone is connected",
   lang: 'en',
 
+  sitemap: {
+    hostname: 'https://ryulant1ng.github.io'
+  },
+
   markdown: {
     math: true,
     config: (md) => {
