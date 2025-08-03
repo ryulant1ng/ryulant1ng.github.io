@@ -40,6 +40,7 @@ export default defineConfig({
     },
 
     footer: {
+      message: 'You may reprint the content of this site in a reasonable manner provided that the source is marked.',
       copyright: 'Copyright &copy; 2025 <a href="https://ryulant1ng.github.io/">Lanting Liu</a>. All rights reserved.'
     },
 
