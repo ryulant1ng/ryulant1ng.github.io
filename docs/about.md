@@ -28,6 +28,7 @@ You may reprint the content of this site in a reasonable manner provided that th
 - Italics are used for emphasize a word in a text, for emphasize a sentence, use bold (including the punctuation at the end of it)
 - When listing three or more items, add 'and' before the last item and a comma before 'and'
 - Add a dagger (†) before dead people, and write their date of birth and death in the first time appear
+- If necessary, add the file name as a comment at the beginning of the code block
 
 #### CJK people names
 
