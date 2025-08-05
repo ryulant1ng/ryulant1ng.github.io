@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Lanting Liu"
-  text: "No matter where you go, everyone is connected"
+  text: "No matter where you go, everyone is connected."
   tagline: make me sad, make me mad, make me feel alright?
   actions:
     - theme: alt
