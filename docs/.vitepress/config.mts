@@ -4,7 +4,7 @@ import footnote from 'markdown-it-footnote'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Lanting Liu",
-  description: "No matter where you go, everyone is connected",
+  description: "No matter where you go, everyone is connected.",
   lang: 'en',
   lastUpdated: true,
 
