@@ -7,6 +7,6 @@ comments: false
 
 > The power of imagination is what changes everything.
 >
-> ― Saki Watanabe, _From the New World_
+> -- Saki Watanabe, _From the New World_
 
 <articleslist />

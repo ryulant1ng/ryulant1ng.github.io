@@ -9,9 +9,9 @@ I was hospitalized three times for suicide, and diagnosed with major depressive 
 
 ## Suicide intervention
 
-I think 'suicide intervention' is utter hypocrisy. People who choose suicide surrender their lives to nature in exchange for freedom from endless suffering, but those who perform so-called 'suicide intervention' programs deprive them of this last hope. Some even resort to even more despicable means, using various methods to block the path to death—restricting access to medication, installing higher guardrails on bridges, and so on.
+I think 'suicide intervention' is utter hypocrisy. People who choose suicide surrender their lives to nature in exchange for freedom from endless suffering, but those who perform so-called 'suicide intervention' programs deprive them of this last hope. Some even resort to even more despicable means, using various methods to block the path to death--restricting access to medication, installing higher guardrails on bridges, and so on.
 
-People have indeed reduced the number of deaths—a wishful thinking that aligns with their own expectations. However, the underlying causes of suicide don't disappear. Furthermore, even after undergoing 'suicide intervention', people are often closely monitored to prevent further suicide attempts—especially in institutions like schools and hospitals. This leaves those who choose suicide trapped in a spiral of pain, unable to die.
+People have indeed reduced the number of deaths--a wishful thinking that aligns with their own expectations. However, the underlying causes of suicide don't disappear. Furthermore, even after undergoing 'suicide intervention', people are often closely monitored to prevent further suicide attempts--especially in institutions like schools and hospitals. This leaves those who choose suicide trapped in a spiral of pain, unable to die.
 
 ## 'Guilty' suicide
 
@@ -21,7 +21,7 @@ Most people born after 2000 can understand and respect suicide, but people befor
 
 > What is the true nature of the bond between father and son? Tracing it to its origin, it is nothing more than the fulfillment of desire. And what of the relationship between a child and their mother? It is like an object entrusted to a bottle; once it is removed, the connection is severed. (父之于子，当有何亲？论其本意，实为情欲发耳。子之于母，亦复奚为？譬如寄物瓶中，出则离矣。)
 >
-> ― Kong Rong
+> -- Kong Rong
 
 Therefore, everyone is only responsible for his or her own life, and there is no reason for an individual to be bound by such things. 
 

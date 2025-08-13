@@ -1,33 +1,33 @@
 @font-face {
-    font-family: "Carlito (webfont)";
+    font-family: "Arimo (webfont)";
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url("/fonts/Carlito-Regular.ttf");
+    src: url("/fonts/Arimo-Regular.ttf");
 }
 
 @font-face {
-    font-family: "Carlito (webfont)";
+    font-family: "Arimo (webfont)";
     font-weight: normal;
     font-style: italic;
     font-display: swap;
-    src: url("/fonts/Carlito-Italic.ttf");
+    src: url("/fonts/Arimo-Italic.ttf");
 }
 
 @font-face {
-    font-family: "Carlito (webfont)";
+    font-family: "Arimo (webfont)";
     font-weight: bold;
     font-style: normal;
     font-display: swap;
-    src: url("/fonts/Carlito-Bold.ttf");
+    src: url("/fonts/Arimo-Bold.ttf");
 }
 
 @font-face {
-    font-family: "Carlito (webfont)";
+    font-family: "Arimo (webfont)";
     font-weight: bold;
     font-style: italic;
     font-display: swap;
-    src: url("/fonts/Carlito-BoldItalic.ttf");
+    src: url("/fonts/Arimo-BoldItalic.ttf");
 }
 
 @font-face {
@@ -37,7 +37,7 @@
 }
 
 :root {
-    --vp-font-family-base: "Carlito (webfont)", sans-serif;
+    --vp-font-family-base: "Arimo (webfont)", sans-serif;
     --vp-font-family-mono: "Droid Sans Mono (webfont)", monospace;
 }
 
