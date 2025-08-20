@@ -1,5 +1,5 @@
 import type { Theme } from 'vitepress'
-import DefaultTheme from 'vitepress/theme-without-fonts'
+import DefaultTheme from 'vitepress/theme'
 import './style/fonts.css'
 import './style/avatar.css'
 import articleslist from './articleslist.vue'

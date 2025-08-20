@@ -23,7 +23,7 @@ Create a '.vue' file (e.g. 'mylayout.vue'), it will be the file that defines lay
 ```vue
 <!-- mylayout.vue -->
 <script setup>
-import DefaultTheme from 'vitepress/theme-without-fonts' /* I use custom font, if you not, change it to `vitepress/theme`. */
+import DefaultTheme from 'vitepress/theme'
 import { useData } from 'vitepress'
 
 const { Layout } = DefaultTheme
@@ -67,7 +67,7 @@ We'll override the layouts, add `Layout: mylayout` to your 'index.ts' file:
 ```typescript
 // index.ts
 import type { Theme } from 'vitepress'
-import DefaultTheme from 'vitepress/theme-without-fonts' /* I use custom font, if you not, change it to `vitepress/theme`. */
+import DefaultTheme from 'vitepress/theme'
 import mylayout from './mylayout.vue'
 
 export default {
@@ -80,7 +80,7 @@ If you're using JavaScript to configure, use this:
 
 ```javascript
 // index.js
-import DefaultTheme from 'vitepress/theme-without-fonts' /* I use custom font, if you not, change it to `vitepress/theme`. */
+import DefaultTheme from 'vitepress/theme'
 import mylayout from './mylayout.vue'
 
 export default {

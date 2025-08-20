@@ -18,6 +18,4 @@ I don't use instant messaging apps, you can reach me at ryulant1ng★gmail.com. 
 
 This site use [VitePress](https://vitepress.dev/) to build, with math equations ($\TeX$) and footnote support.
 
-The main font of this site is [Pretendard Std](https://cactus.tistory.com/306), which is a excellent font, similar to Apple's [San Francisco](https://developer.apple.com/fonts/), and the only downside is that there is no italic variant of this font, so you will see some mechanically stretched pseudo-italic (oblique) variant. The monospace font of this site is Droid Sans Mono, which is AOSP original monospace font.
-
 You may reprint the content of this site in a reasonable manner provided that the source is marked.
