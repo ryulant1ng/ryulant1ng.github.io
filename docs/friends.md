@@ -7,7 +7,7 @@ title: Friends
 If you want to add friends link with me, please make sure you already add me in your friends link page.
 
 ::: details My information
-- **Site URL**: `https://ryulant1ng.github.io/friends.html`
+- **Site URL**: `https://ryulant1ng.github.io`
 - **Avatar**: `https://ryulant1ng.github.io/images/avatars/ryulant1ng.jpg`
 - **Nickname**: Lanting Liu
 - **One sentence description**: Ordinary netizen
