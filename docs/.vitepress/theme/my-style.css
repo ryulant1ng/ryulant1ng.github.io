@@ -1,0 +1,32 @@
+* {
+    -webkit-font-smoothing: antialiased !important; /* for macOS */
+    -moz-osx-font-smoothing: grayscale !important; /* for macOS */
+    text-rendering: geometricPrecision !important;
+}
+
+@font-face {
+    font-family: "Firava (web font)";
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url("/fonts/Firava.woff2") format("woff2-variations");
+}
+
+@font-face {
+    font-family: "Firava (web font)";
+    font-style: italic;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url("/fonts/FiravaItalic.woff2") format("woff2-variations");
+}
+
+@font-face {
+    font-family: "Droid Sans Mono (web font)";
+    font-display: swap;
+    src: url("/fonts/DroidSansMono.ttf");
+}
+
+:root {
+    --vp-font-family-base: "Firava (web font)", sans-serif;
+    --vp-font-family-mono: "Droid Sans Mono (web font)", monospace;
+}
